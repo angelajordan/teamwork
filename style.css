@@ -1,7 +1,11 @@
 body {
-    background-color: LightGreen;   
+    background-color: DeepSkyBlue;   
 }
 
 h1 {
-   color: Orange;
+   color: DeepPink;
+}
+
+h2 {
+    color: DarkOrchid;
 }
