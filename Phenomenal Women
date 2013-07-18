@@ -42,7 +42,7 @@
     
     </div>
     
-    <img src=man.jpg>
+    <img src="man.jpg"> style="max-width:25%"/>
 
   </body>
 
